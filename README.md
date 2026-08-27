@@ -35,4 +35,4 @@ Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sau
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/christianBrost) • [Portfolio](#) • [Email](mailto:deine-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/christianBrost) • [Email](mailto:christian.brost.career@gmail.com)
