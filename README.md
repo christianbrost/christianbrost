@@ -31,7 +31,7 @@ Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik.
 Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sauberem GUI-Layout.  
 *Tech: Java, OOP*
 
-**🧠 [local-llm-lab](https://github.com/christianbrost/local-llm-lab)**  
+**🧠 [Local LLM Lab](https://github.com/christianbrost/local-llm-lab)**  
 Lokale RAG-Pipeline mit Ollama – Chunking, Embeddings, ChromaDB und Retrieval, komplett ohne Cloud-API.  
 *Tech: Python, LangChain, ChromaDB, Ollama*
 
