@@ -1,4 +1,4 @@
-## Christian Brost
+  ## Christian Brost
 
 **Informatikstudent @ Universität Leipzig · Software Developer & Motion Designer**
 
@@ -31,7 +31,7 @@ Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik.
 Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sauberem GUI-Layout.  
 *Tech: Java, OOP*
 
-**🧠 [RAG from Scratch](https://github.com/bigpython0/rag-from-scratch)**  
+**🧠 [local-llm-lab](https://github.com/bigpython0/rag-from-scratch)**  
 Lokale RAG-Pipeline mit Ollama – Chunking, Embeddings, ChromaDB und Retrieval, komplett ohne Cloud-API.  
 *Tech: Python, LangChain, ChromaDB, Ollama*
 
