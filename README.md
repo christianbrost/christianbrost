@@ -23,15 +23,15 @@ Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) 
 
 ## Featured Projects
 
-**♟️ [Chess Engine](https://github.com/bigpython0/Chess)**  
+**♟️ [Chess Engine](https://github.com/christianbrost/chess-engine-cpp)**  
 Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik.  
 *Tech: C++20*
 
-**🏦 [Banking System](https://github.com/bigpython0/BankingSystem)**  
+**🏦 [Banking System](https://github.com/christianbrost/banking-system-java)**  
 Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sauberem GUI-Layout.  
 *Tech: Java, OOP*
 
-**🧠 [local-llm-lab](https://github.com/bigpython0/rag-from-scratch)**  
+**🧠 [local-llm-lab](https://github.com/christianbrost/local-llm-lab)**  
 Lokale RAG-Pipeline mit Ollama – Chunking, Embeddings, ChromaDB und Retrieval, komplett ohne Cloud-API.  
 *Tech: Python, LangChain, ChromaDB, Ollama*
 
@@ -39,4 +39,4 @@ Lokale RAG-Pipeline mit Ollama – Chunking, Embeddings, ChromaDB und Retrieval,
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/christianBrost) • [Email](mailto:christian.brost.career@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/christianbrost) • [Email](mailto:christian.brost.career@gmail.com)
