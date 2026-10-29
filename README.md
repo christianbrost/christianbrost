@@ -1,8 +1,8 @@
   ## Christian Brost
 
-**Informatikstudent @ Universität Leipzig · Software Developer & Motion Designer**
+**Informatikstudent @ Universität Leipzig · Werkstudent Site Reliability Engineering @ European Energy Exchange (EEX)**
 
-Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) mit einem großen Interesse an Videobearbeitung und AI-Development. 
+Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) und ab Dezember 2026 Werkstudent im Bereich Site Reliability Engineering bei der European Energy Exchange AG (EEX) in Leipzig. Außerdem interessiere ich mich sehr für AI-Development und Videobearbeitung.
 
 ---
 
