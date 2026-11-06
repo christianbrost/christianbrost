@@ -1,8 +1,8 @@
-  ## Christian Brost
+## Christian Brost
 
-**Informatikstudent @ Universität Leipzig · Werkstudent Site Reliability Engineering @ European Energy Exchange (EEX)**
+**Computer Science Student @ Leipzig University · Incoming Working Student Site Reliability Engineering @ European Energy Exchange (EEX)**
 
-Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) und ab Dezember 2026 Werkstudent im Bereich Site Reliability Engineering bei der European Energy Exchange AG (Deutsche Börse Group) in Leipzig. Außerdem interessiere ich mich sehr für AI-Development und Videobearbeitung.
+I'm a computer science student at Leipzig University (B.Sc., since October 2025) and will be joining the European Energy Exchange AG (Deutsche Börse Group) in Leipzig as a working student in Site Reliability Engineering starting December 2026.
 
 ---
 
@@ -24,15 +24,15 @@ Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) 
 ## Featured Projects
 
 **♟️ [Chess Engine](https://github.com/christianbrost/chess-engine-cpp)**  
-Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik.  
-*Tech: C++20*
+Visually polished chess game with fully implemented game logic, playable in the browser via WebAssembly.  
+*Tech: C++, WebAssembly*
 
 **🏦 [Banking System](https://github.com/christianbrost/banking-system-java)**  
-Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sauberem GUI-Layout.  
+Object-oriented banking application with authentication, file-based user management and a clean GUI layout.  
 *Tech: Java, OOP*
 
 **🧠 [Local LLM Lab](https://github.com/christianbrost/local-llm-lab)**  
-Lokale RAG-Pipeline mit Ollama – Chunking, Embeddings, ChromaDB und Retrieval, komplett ohne Cloud-API.  
+Local RAG pipeline with Ollama: chunking, embeddings, ChromaDB and retrieval, entirely without a cloud API.  
 *Tech: Python, LangChain, ChromaDB, Ollama*
 
 ---
