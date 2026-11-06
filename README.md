@@ -2,7 +2,7 @@
 
 **Informatikstudent @ Universität Leipzig · Werkstudent Site Reliability Engineering @ European Energy Exchange (EEX)**
 
-Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) und ab Dezember 2026 Werkstudent im Bereich Site Reliability Engineering bei der European Energy Exchange AG (EEX) in Leipzig. Außerdem interessiere ich mich sehr für AI-Development und Videobearbeitung.
+Ich bin Informatikstudent an der Universität Leipzig (B.Sc. seit Oktober 2025) und ab Dezember 2026 Werkstudent im Bereich Site Reliability Engineering bei der European Energy Exchange AG (Deutsche Börse Group) in Leipzig. Außerdem interessiere ich mich sehr für AI-Development und Videobearbeitung.
 
 ---
 
