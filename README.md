@@ -6,6 +6,14 @@ I'm a computer science student at Leipzig University (B.Sc., since October 2025)
 
 ---
 
+## Current Focus
+
+**🛠️ [SRE Learning](https://github.com/christianbrost/sre-learning)**  
+Getting hands-on with Python as a scripting language for SRE automation ahead of my start at EEX: virtual environments, file handling with `pathlib`, CLI tools with `argparse` and structured `logging`. Currently building a command-line tool that organizes a directory by file type, with a safe `--dry-run` mode.  
+*Tech: Python, pathlib, argparse, logging*
+
+---
+
 ## Tech Stack
 
 **Languages**  
